@@ -8,16 +8,16 @@ A simple, beautiful desktop tool to launch multiple apps or URLs with just one c
 Supports Windows, macOS, and Linux. No technical knowledge required.
 
 Visit the official GitHub repository:
-👉 https://github.com/Sunil-731820/ZeroLaunch/releases/tag/V1.1.1
+👉 https://github.com/Sunil-731820/ZeroLaunch/releases/tag/V1.1.2
 
 Go to the Releases section.
-![image](https://github.com/user-attachments/assets/4a93e10a-3310-45af-a18f-f648fbd9c9ef)
+![image](https://github.com/user-attachments/assets/7ffb8d61-8a58-4f12-8f5d-67b180fd65aa)
 
-Download the latest .exe from Assets (e.g.,JustOneClicklauncher.exe)
+Download the latest .exe from Assets (e.g.,ZeroLaunch.exe)
 
 Run the installer — follow the steps to install it on your system.
 
-💡 The app installs to C:\Program Files\JustOneClickAppLauncher and adds shortcuts to your Start Menu and Desktop (optional).
+💡 The app installs to C:\Program Files\ZeroLaunch and adds shortcuts to your Start Menu and Desktop (optional).
 
 🔐 First-Time Setup
 When you open the app for the first time, you'll be asked to create a secure PIN (5–10 digits).
