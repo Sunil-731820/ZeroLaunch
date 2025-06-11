@@ -11,6 +11,7 @@ Visit the official GitHub repository:
 👉 https://github.com/Sunil-731820/ZeroLaunch/releases/tag/V1.1.1
 
 Go to the Releases section.
+![image](https://github.com/user-attachments/assets/4a93e10a-3310-45af-a18f-f648fbd9c9ef)
 
 Download the latest .exe from Assets (e.g.,JustOneClicklauncher.exe)
 
